@@ -1,0 +1,13 @@
+package com.defaulttest;
+
+import com.cybage.DefaultAccesModifier;
+
+public class testDefaultAccessModifierOutside {
+
+	public static void main(String[] args) {
+		DefaultAccesModifier df=new DefaultAccesModifier();
+		df.diplay();
+
+	}
+
+}

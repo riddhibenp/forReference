@@ -1,0 +1,13 @@
+package com.cybage;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Manager m=new Manager("ABC",500);
+		SalesManager s=new SalesManager("DEF",250);
+		System.out.println(m.calculateSalary());
+		System.out.println(s.calculateSalary());
+		
+	}
+
+}

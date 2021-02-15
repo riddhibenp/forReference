@@ -1,0 +1,11 @@
+package com.cybage;
+
+public class testDefaultAccessModifier {
+
+	public static void main(String[] args) {
+		DefaultAccesModifier df=new DefaultAccesModifier();
+		df.diplay();
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.cybage;
+
+public class Thread1 extends Thread{
+	Thread t1=new Thread();
+	
+	t1.start();
+	Table tab1=new Table();
+	tab1.printTable(5);
+	
+}

@@ -1,0 +1,9 @@
+package com.cybage;
+
+public interface EmployeeService {
+	
+	public abstract void calculateSalary();
+	
+	
+}
+

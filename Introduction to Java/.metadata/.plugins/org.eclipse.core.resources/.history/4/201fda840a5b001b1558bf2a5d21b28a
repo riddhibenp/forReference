@@ -1,0 +1,15 @@
+package com.cybage;
+
+class testProtectedAccessModifier extends ProtectedAccessModifier{
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+	testProtectedAccessModifier tp= new  testProtectedAccessModifier();
+	System.out.println(tp.a);
+		
+		
+		
+	}
+
+	
+	
+}

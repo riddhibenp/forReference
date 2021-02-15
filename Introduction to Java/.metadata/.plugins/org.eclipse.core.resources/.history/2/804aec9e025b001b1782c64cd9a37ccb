@@ -1,0 +1,5 @@
+package com.cybage;
+
+class PrivateAccessModifier {
+	private int a=5;
+}

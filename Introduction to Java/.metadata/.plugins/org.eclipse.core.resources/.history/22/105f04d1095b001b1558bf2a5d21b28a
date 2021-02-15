@@ -1,0 +1,11 @@
+package com.cybage;
+
+class testProtectedAccessModifier extends ProtectedAccessModifier{
+	public static void main(String[] args) {
+		testProtectedAccessModifier tp=new  testProtectedAccessModifier();
+		tp.display();
+		
+		
+	}
+	
+}

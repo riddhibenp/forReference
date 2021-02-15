@@ -1,0 +1,5 @@
+package com.cybage;
+
+public class Thread3  extends Thread{
+	Thread t3=new Thread();
+}
