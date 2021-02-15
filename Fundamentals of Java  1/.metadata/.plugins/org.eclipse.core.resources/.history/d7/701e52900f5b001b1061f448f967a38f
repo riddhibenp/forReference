@@ -1,0 +1,12 @@
+package com.cybage;
+
+public class EmployeeImpl{
+
+	@SuppressWarnings("unused")
+	public static void main(String[] args) {
+		EmployeeImpl e1 =new EmployeeImpl();
+		
+		
+	}
+
+}

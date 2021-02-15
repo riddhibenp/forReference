@@ -1,0 +1,36 @@
+package com.cybage;
+
+public class Date {
+	private String day;
+	private int month;
+	private int year;
+	
+	
+	
+	
+	public Date(){
+		this.day=null;
+		this.month=0;
+		this.year=0;
+		
+	}
+	public Date(String day,int month, int year){
+		this.day=day;
+		this.month=month;
+		this.year=year;
+	}
+
+	
+	
+	public void display(){
+		System.out.println("Day:"+day+"_"+"Month:"+month+"_"+"Year:"+year);
+	}
+	public static void main(String[] args) {
+		Date d1=new Date();
+		Date d2=new Date("Monday",12,1999);
+		d1.display();
+		d2.display();
+
+	}
+
+}

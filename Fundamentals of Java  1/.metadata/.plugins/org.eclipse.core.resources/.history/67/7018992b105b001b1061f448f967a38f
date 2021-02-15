@@ -1,0 +1,13 @@
+package com.cybage;
+
+public class EmployeeImpl extends Employee{
+
+	public static void main(String[] args) {
+		EmployeeImpl e1 =new EmployeeImpl();
+		e1.toString();
+		//e1.getName("abcd");
+		e1.getName();
+		
+	}
+
+}

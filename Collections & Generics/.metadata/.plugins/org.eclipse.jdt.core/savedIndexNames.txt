@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\riddhibenp\Downloads\BE Java FET\Assignments\Collections & Generics\.metadata\.plugins\org.eclipse.jdt.core
+1310199783.index
+2685824715.index
+958349169.index

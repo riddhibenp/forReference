@@ -1,0 +1,19 @@
+package com.cybage;
+import java.util.Comparator;
+ 
+public class NameSort implements Comparable<Employee> 
+{
+//    public int compareTo(Employee o1, Employee o2) {
+//        return o1.getFirstName()-o2.getFirstName();
+//    }
+
+	@Override
+	public int compareTo(Employee o1, Employee o2) {
+		// TODO Auto-generated method stub
+		return o1.getFirstName.equals(o2.getFirstName);
+	}
+
+}
+
+
+//o2.getFirstName().compareToIgnoreCase(o1.getFirstName());
